@@ -4,7 +4,7 @@ A Tractor on a Road built using Blender
 
 ## Renders
 ### ------------------------------------------------
-![suzzannestreet3](https://user-images.githubusercontent.com/43045825/79018093-94317e00-7b90-11ea-9c33-8682b77e2417.png)
+![suzzannestreet3](https://user-images.githubusercontent.com/43045825/79018316-220d6900-7b91-11ea-9679-200236b49471.png)
 ### ------------------------------------------------
 ![suzzannestreet2](https://user-images.githubusercontent.com/43045825/79018108-9b588c00-7b90-11ea-9623-c9b6bd2c2b46.png)
 ### ------------------------------------------------
