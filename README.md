@@ -1,4 +1,4 @@
-# Tractor-on-Road-3D-Model-Blender
+# Tractor on Road 3D Model Blender
 
 A Tractor on a Road built using Blender
 
